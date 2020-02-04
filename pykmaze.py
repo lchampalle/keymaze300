@@ -3,8 +3,8 @@
 #-----------------------------------------------------------------------------
 # Communicate w/ a Decathlon Keymaze 500/700 devices
 #-----------------------------------------------------------------------------
-# @author Emmanuel Blot <manu.blot@gmail.com> (c) 2009
-# @license MIT License, see LICENSE file
+# @author 
+# @license 
 #-----------------------------------------------------------------------------
 
 from __future__ import with_statement
